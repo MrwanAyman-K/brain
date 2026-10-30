@@ -1,3 +1,0 @@
-{ "name": "sea-brain", "version": "1.0.0", "type": "module", "main": "brain.js",
-  "scripts": { "start": "node brain.js" },
-  "dependencies": { "@supabase/supabase-js": "^2.45.4" } }
